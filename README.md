@@ -1,10 +1,8 @@
 # duifkruid
 
-## ✨ Welcome
+## At work
 
-- 📚 Working on something amazing
-- 🌱 Learning something every day
-- 📣 Coding is a lot like being a mom:
+📣 Coding is a lot like being a mom:
   - 🌪 make sense of the chaos 
   - 🧩 solve problems
   - 🎆 pick your battles
